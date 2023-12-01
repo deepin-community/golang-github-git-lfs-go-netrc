@@ -10,7 +10,7 @@ Copyright: 2010-2014 Blake Gentry <blakesgentry@gmail.com>
 License: Expat
 
 Files: debian/*
-Copyright: 2018 Stephen Gelman <ssgelm@gmail.com>
+Copyright: 2018-2022 Stephen Gelman <ssgelm@gmail.com>
 License: Expat
 Comment: Debian packaging is licensed under the same terms as upstream
 
